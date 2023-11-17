@@ -60,4 +60,4 @@ jobs:
           app-name: 'emiremresarbay'
           slot-name: 'staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B178D5C660A4B788FB948D18B4031F5 }}
+          publish-profile: ${{ secrets.emiremresarbay_staging_PublishSettings }}
